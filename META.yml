@@ -28,6 +28,7 @@ no_index:
     - t
 requires:
   Carp: 0
+  Catalyst::Action::RenderView: 0
   Memoize: 0
   Moose: 0
   Syntax::Highlight::Engine::Kate: 0
@@ -37,4 +38,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/dorward/Catalyst-TraitFor-View-MarkupValidation.git
-version: 0.002
+version: 0.003
